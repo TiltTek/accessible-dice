@@ -4,6 +4,14 @@ All notable changes to `tilttek/accessible-dice` will be documented in this file
 
 Updates should follow the [Keep a CHANGELOG](https://keepachangelog.com/) principles.
 
+## 0.1.4-alpha - 2026-11-24
+
+### Changed
+
+- Requires the latest minor of each dependency: `twig/twig` 3.31, `symfony/stimulus-bundle` 3.8,
+  `symfony/translation-contracts` 3.8.
+- `tilttek/dice` 0.3 required: 0.2 is no longer accepted.
+
 ## 0.1.3-alpha - 2026-11-20
 
 ### Changed
